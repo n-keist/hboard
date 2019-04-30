@@ -1,0 +1,24 @@
+{
+  "name": "hboard",
+  "version": "1.0.0",
+  "description": "Yet Another Webinterface for your gameservers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-keist/hboard.git"
+  },
+  "keywords": [
+    "dashboard",
+    "webinterface",
+    "games"
+  ],
+  "author": "https://github.com/n-keist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n-keist/hboard/issues"
+  },
+  "homepage": "https://github.com/n-keist/hboard#readme"
+}
